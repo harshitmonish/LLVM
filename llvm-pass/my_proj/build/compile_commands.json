@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/hmonish/llvm/my_proj/build",
+  "command": "/usr/bin/c++ -DAddConst_EXPORTS -I/usr/lib/llvm-10/include -I../lib/../include  -Wall    -fdiagnostics-color=always -fvisibility-inlines-hidden -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -std=gnu++17 -o lib/CMakeFiles/AddConst.dir/AddConstAnalysis.cpp.o -c /home/hmonish/llvm/my_proj/lib/AddConstAnalysis.cpp",
+  "file": "/home/hmonish/llvm/my_proj/lib/AddConstAnalysis.cpp"
+},
+{
+  "directory": "/home/hmonish/llvm/my_proj/build",
+  "command": "/usr/bin/c++ -DAddConst_EXPORTS -I/usr/lib/llvm-10/include -I../lib/../include  -Wall    -fdiagnostics-color=always -fvisibility-inlines-hidden -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -std=gnu++17 -o lib/CMakeFiles/AddConst.dir/AddConstPass.cpp.o -c /home/hmonish/llvm/my_proj/lib/AddConstPass.cpp",
+  "file": "/home/hmonish/llvm/my_proj/lib/AddConstPass.cpp"
+},
+{
+  "directory": "/home/hmonish/llvm/my_proj/build",
+  "command": "/usr/bin/c++ -DAddConst_EXPORTS -I/usr/lib/llvm-10/include -I../lib/../include  -Wall    -fdiagnostics-color=always -fvisibility-inlines-hidden -g -fPIC   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -std=gnu++17 -o lib/CMakeFiles/AddConst.dir/AddConstPlugin.cpp.o -c /home/hmonish/llvm/my_proj/lib/AddConstPlugin.cpp",
+  "file": "/home/hmonish/llvm/my_proj/lib/AddConstPlugin.cpp"
+},
+{
+  "directory": "/home/hmonish/llvm/my_proj/build",
+  "command": "/usr/bin/c++ -I/usr/lib/llvm-10/include -I../tool/../include  -Wall    -fdiagnostics-color=always -fvisibility-inlines-hidden -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -std=gnu++17 -o tool/CMakeFiles/addconst.dir/main.cpp.o -c /home/hmonish/llvm/my_proj/tool/main.cpp",
+  "file": "/home/hmonish/llvm/my_proj/tool/main.cpp"
+},
+{
+  "directory": "/home/hmonish/llvm/my_proj/build",
+  "command": "/usr/bin/c++ -I/usr/lib/llvm-10/include -I../tool/../include  -Wall    -fdiagnostics-color=always -fvisibility-inlines-hidden -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -std=gnu++17 -o tool/CMakeFiles/addconst.dir/__/lib/AddConstAnalysis.cpp.o -c /home/hmonish/llvm/my_proj/lib/AddConstAnalysis.cpp",
+  "file": "/home/hmonish/llvm/my_proj/lib/AddConstAnalysis.cpp"
+},
+{
+  "directory": "/home/hmonish/llvm/my_proj/build",
+  "command": "/usr/bin/c++ -I/usr/lib/llvm-10/include -I../tool/../include  -Wall    -fdiagnostics-color=always -fvisibility-inlines-hidden -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -std=gnu++17 -o tool/CMakeFiles/addconst.dir/__/lib/AddConstPass.cpp.o -c /home/hmonish/llvm/my_proj/lib/AddConstPass.cpp",
+  "file": "/home/hmonish/llvm/my_proj/lib/AddConstPass.cpp"
+}
+]
