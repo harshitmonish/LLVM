@@ -1,9 +1,0 @@
-/home/hmonish/llvm/my_proj/build/CMakeFiles/rebuild_cache.dir
-/home/hmonish/llvm/my_proj/build/CMakeFiles/intrinsics_gen.dir
-/home/hmonish/llvm/my_proj/build/CMakeFiles/edit_cache.dir
-/home/hmonish/llvm/my_proj/build/lib/CMakeFiles/rebuild_cache.dir
-/home/hmonish/llvm/my_proj/build/lib/CMakeFiles/AddConst.dir
-/home/hmonish/llvm/my_proj/build/lib/CMakeFiles/edit_cache.dir
-/home/hmonish/llvm/my_proj/build/tool/CMakeFiles/rebuild_cache.dir
-/home/hmonish/llvm/my_proj/build/tool/CMakeFiles/addconst.dir
-/home/hmonish/llvm/my_proj/build/tool/CMakeFiles/edit_cache.dir
