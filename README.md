@@ -36,8 +36,8 @@ Steps to run transformation loop pass
   
 ## OUTPUT
 ### Analysis Pass
-[Analysis pass output](https://github.com/harshitmonish/LLVM/blob/main/llvm-analysis-pass.png)  
+![Analysis pass output](https://github.com/harshitmonish/LLVM/blob/main/llvm-analysis-pass.png)  
 
 ### Transformation Pass
-[Transformation pass output](https://github.com/harshitmonish/LLVM/blob/main/llvm-transformation-pass.png)
+![Transformation pass output](https://github.com/harshitmonish/LLVM/blob/main/llvm-transformation-pass.png)
   
