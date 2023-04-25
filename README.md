@@ -23,18 +23,14 @@ Following are the steps involved:
  1.4 goto build dir "cd build"
  1.5 compile the project " cmake --build . "
 2. Running the project
-
  2.1 set the opt tool path "LLVM_OPT=$LLVM_INSTALL_DIR/bin/opt"
- 
  2.2 execute the opt tool "$LLVM_OPT -load-pass-plugin build/lib/libAddConst.so -passes="print<add-const>" -disable-output examples/"
 
 
 Steps to run transformation loop pass
 1. Build the project as above steps (skip if already build in previous analysis)
 2. Running the project.
-
   2.1 set the opt tool path "LLVM_OPT=$LLVM_INSTALL_DIR/bin/opt"
-  
   2.2 executet the opt tool "$LLVM_OPT -load-pass-plugin build/lib/libAddConst.so -passes=”add-const” -S examples/foo.ll -o examples/foo2.ll"
   
   
